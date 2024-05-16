@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a react project",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "author": "lalit kashyap 58",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitkashyap58"
+  },
+  "homepage": "/",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "formik": "^2.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.7.0",
+    "yup": "^1.2.0"
+  },
+  "browserslist": [
+    "last 10 versions"
+  ]
+}
